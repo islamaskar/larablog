@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Our Blog!
+                    Our Blog! {{$name}}
                 </div>
 
                 <div class="links">
